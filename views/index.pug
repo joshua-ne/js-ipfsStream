@@ -1,0 +1,29 @@
+extends layout
+
+block title
+  title Home
+
+block content
+  div(class='jumbotron')
+    h1 IPFS is Awesome
+    p(class='lead') 恭喜您进入Web3.0的世界！您正在观看从全世界ipfs节点传来的视频，enjoy～
+
+
+
+  div
+    nav
+      ul(class='nav navbar-nav navbar-left')
+        li(role='presentation')
+          a 观看更多：
+        li(role='presentation')
+          a(href='https://cloudflare-ipfs.com/ipfs/QmcVQP9rmciGrrQxJgee7j4xbLNDuDfaVToM8nkcHr4xxw' target='_blank') 复仇者联盟
+        li(role='presentation')
+          a(href='https://cloudflare-ipfs.com/ipfs/QmTPubgs4VsZmVz9pRiHumWe26CeZ6HPa7tkx7paayenRq' target='_blank') 蚁人与黄蜂女
+        li(role='presentation')
+          a(href='https://cloudflare-ipfs.com/ipfs/QmNaP8ke3fP2EPPtBUV1qM3mD7fAEc9cDiWr2zW389eMUj' target='_blank') 水行侠
+        li(role='presentation')
+          a(href='https://cloudflare-ipfs.com/ipfs/QmNxFkhj5T2q5BRvpyMDLAv4jfFcWMFANds6qng6ByzPwR' target='_blank') 碟中谍
+
+
+  video(width='1135' height='600' controls='')
+    source(src='https://cloudflare-ipfs.com/ipfs/QmZwjHnbLwnMULveZ52VEBKdvQYamtGqDBZPRaBrmiiPMe' type='video/mp4')
