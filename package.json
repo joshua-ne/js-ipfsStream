@@ -7,7 +7,7 @@
     "lite": "lite-server"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.1.2",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
     "express": "~4.16.0",
@@ -18,7 +18,7 @@
     "ipfsd-ctl": "^0.39.2",
     "jquery": "^3.3.1",
     "morgan": "~1.9.0",
-    "popper.js": "^1.12.9",
+    "popper.js": "^1.14.4",
     "pug": "2.0.0-beta11"
   },
   "main": "app.js",
