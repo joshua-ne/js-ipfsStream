@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e19daa10-0788-4ebd-b8b8-08fcf91a95c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,14 +26,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="7" />
-          <entry key="json" value="1" />
+          <entry key="json" value="2" />
           <entry key="pug" value="3" />
           <entry key="www" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="1" />
+          <entry key="JSON" value="2" />
           <entry key="Jade" value="3" />
           <entry key="JavaScript" value="9" />
         </counts>
@@ -41,14 +41,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="939" />
-          <entry key="json" value="85" />
+          <entry key="json" value="150" />
           <entry key="pug" value="620" />
           <entry key="www" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="85" />
+          <entry key="JSON" value="150" />
           <entry key="Jade" value="620" />
           <entry key="JavaScript" value="940" />
         </counts>
@@ -78,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="240">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -87,8 +87,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="285">
+              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="1750" column="25" selection-start-line="1750" selection-start-column="25" selection-end-line="1750" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -105,6 +114,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ipfsDeamon</find>
+      <find>cryptiles</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,12 +222,12 @@
       <option name="presentableId" value="Default" />
       <updated>1538947786231</updated>
       <workItem from="1538947788600" duration="14097000" />
-      <workItem from="1539497943901" duration="3183000" />
+      <workItem from="1539497943901" duration="3565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17280000" />
+    <option name="totallyTimeSpent" value="17662000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,14 +240,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1665" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14683406" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14683406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294979" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33054394" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33054394" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -296,17 +307,17 @@
     <entry file="file://$PROJECT_DIR$/views/error.pug">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/layout.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="1750" column="25" selection-start-line="1750" selection-start-column="25" selection-end-line="1750" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -317,10 +328,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="285">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
